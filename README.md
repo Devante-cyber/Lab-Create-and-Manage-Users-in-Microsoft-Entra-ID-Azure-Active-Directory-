@@ -173,8 +173,23 @@ johnsmith@yourtenant.onmicrosoft.com
   ## Step 10: Delete User
 
   - Return to users
+
+  <img width="268" height="445" alt="image" src="https://github.com/user-attachments/assets/2acdbcbb-6036-418a-a214-099091040ac7" />
+
+  - Select user
  
-    Select user
+  <img width="878" height="381" alt="image" src="https://github.com/user-attachments/assets/d91b6d47-8326-49b4-9696-475e023aa00a" />
+
+  - Click Delete
+
+    <img width="874" height="376" alt="image" src="https://github.com/user-attachments/assets/8dc97c24-3994-4c7a-8bb9-46d68792d4eb" />
+
+  - User Successfully Deleted
+
+  <img width="387" height="111" alt="image" src="https://github.com/user-attachments/assets/abcb928b-909e-4325-ae91-102f5728fbc4" />
+
+ 
+    
 
     
 
