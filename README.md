@@ -189,7 +189,7 @@ johnsmith@yourtenant.onmicrosoft.com
   <img width="387" height="111" alt="image" src="https://github.com/user-attachments/assets/abcb928b-909e-4325-ae91-102f5728fbc4" />
 
  
-    ##What I Learned
+    ## What I Learned
 
 During this lab, I learned how Microsoft Entra ID is used to manage identities within Azure. I practiced creating users, resetting passwords, assigning licenses, and managing security groups. These tasks are common responsibilities for Help Desk and System Administrators.
     
